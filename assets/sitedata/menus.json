@@ -110,26 +110,6 @@
 			"url": "/events/",
 			"items": [
 				{
-					"title": "OWASP January Webinar",
-					"url": "https://www.eventbrite.com/e/owasp-january-webinar-tickets-221608546127?utm_campaign=none&utm_medium=event-page&utm_source=owasp-web",
-					"opentab": "true"
-				},
-				{
-					"title": "OWASP Career Fair",
-					"url": "https://owaspcareerfair.vfairs.com/",
-					"opentab": "true"
-				},
-				{
-					"title": "OWASP March Webinars",
-					"url": "https://www.eventbrite.com/e/owasp-march-webinars-tickets-225237991897?utm_campaign=none&utm_medium=event-page&utm_source=owasp-web",
-					"opentab": "true"
-				},
-				{
-					"title": "OWASP April Webinar",
-					"url": "https://owasp.org/events/",
-					"opentab": "true"
-				},
-				{
 					"title": "OWASP 2022 Global AppSec Europe Virtual Event",
 					"url": "https://dublin.globalappsec.org/",
 					"opentab": "true"
